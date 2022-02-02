@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fcc-drum-machine/static/css/main.cdab2288.css",
+    "main.js": "/fcc-drum-machine/static/js/main.86c4e010.js",
+    "index.html": "/fcc-drum-machine/index.html",
+    "main.cdab2288.css.map": "/fcc-drum-machine/static/css/main.cdab2288.css.map",
+    "main.86c4e010.js.map": "/fcc-drum-machine/static/js/main.86c4e010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdab2288.css",
+    "static/js/main.86c4e010.js"
+  ]
+}
